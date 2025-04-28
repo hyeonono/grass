@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7786f4b5-c989-4ea6-b41e-0c01ccd42e16" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/python_oz_4-1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5일차과제/python_oz_5.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
       <workItem from="1745416455507" duration="3252000" />
       <workItem from="1745421340773" duration="73000" />
       <workItem from="1745421428408" duration="34000" />
+      <workItem from="1745421621493" duration="519000" />
     </task>
     <servers />
   </component>
